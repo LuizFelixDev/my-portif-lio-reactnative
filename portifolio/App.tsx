@@ -1,10 +1,11 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
-import Home from './src/screens/Home/Home';
+import { NavigationContainer } from '@react-navigation/native';
+import { TabsRoutes } from './src/routes/bottomtab.routes';
 
 export default function App() {
   return (
-    <Home/>
+    <NavigationContainer>
+      <TabsRoutes/>
+    </NavigationContainer>
   );
 }
 

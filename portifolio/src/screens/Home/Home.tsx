@@ -31,6 +31,7 @@ export default function Home(){
             </Text>
 
             <Buttons></Buttons>
+            
         </View>
     )
 }
