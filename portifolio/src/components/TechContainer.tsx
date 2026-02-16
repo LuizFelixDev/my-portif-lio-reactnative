@@ -10,7 +10,7 @@ import iot from '../../assets/iot.png'
 
 export function TechContainer() {
     return(
-      <View style={styles.toBarStyle}>
+      <View style={styles.techContainer}>
         <Text style={styles.textTop}>Tecnologias</Text>
         <View style={styles.iconsContainer}>
             <Image source={types} />
@@ -26,7 +26,7 @@ export function TechContainer() {
 }
 
 export const styles = StyleSheet.create({
-  toBarStyle: {
+  techContainer: {
     marginTop: 70,
     flexDirection: 'column',
     justifyContent: "flex-start", 
