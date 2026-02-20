@@ -31,8 +31,8 @@ A aplicação conta com uma interface moderna, navegação via Tabs e componente
 
 ## 📁 Projetos em Destaque
 - **MagoImportsSystem**: Sistema de gestão completo para lojas.
-- **Gerador de Senhas Okarun**: App mobile com temática de Dandadan.
-- **Podcast Filter API**: API desenvolvida em Node.js e TypeScript.
+- **Magoimportsinterface**: Interface feita em ReactJS e NextJS para uma loja de roupas.
+- **Podcast Filter API**: API desenvolvida em Node.js e TypeScript(Experiência sem frameworks).
 - **Projeto Vênus**: Trabalho acadêmico voltado para Engenharia de Software.
 
 ## 🔧 Como Executar
@@ -43,6 +43,10 @@ A aplicação conta com uma interface moderna, navegação via Tabs e componente
 2. Entre na pasta do projeto:
    ```bash
    cd .\portifolio\
+
+2. Entre na pasta do projeto:
+   ```bash
+   npm i
 
 3. Execute o projeto:
    ```bash
