@@ -44,7 +44,7 @@ A aplicação conta com uma interface moderna, navegação via Tabs e componente
    ```bash
    cd .\portifolio\
 
-2. Entre na pasta do projeto:
+2. Instale as dependências:
    ```bash
    npm i
 
