@@ -5,9 +5,9 @@ import { Buttons } from "../../components/Buttons";
 
 export default function Home(){
     return(
-        <View  style={styles.container} >
-            <Logo/>z
-             cx
+        <View style={styles.container}>
+            <Logo/>
+            
             <Text style={styles.paragraph1}>
                 My name is Luiz Henrique, and I am a 
                 Web and Mobile Developer currently pursuing a degree in 
@@ -30,9 +30,7 @@ export default function Home(){
                 productivity, organization, and strong communication.
             </Text>
 
-            <Buttons></Buttons>
-            
+            <Buttons />
         </View>
     )
 }
-

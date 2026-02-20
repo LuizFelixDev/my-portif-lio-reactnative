@@ -27,7 +27,7 @@ export function TechContainer() {
 
 export const styles = StyleSheet.create({
   techContainer: {
-    marginTop: 70,
+    marginTop: 50,
     flexDirection: 'column',
     justifyContent: "flex-start", 
     alignItems: "center",
